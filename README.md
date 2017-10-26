@@ -1,0 +1,2 @@
+# Inaterplay Map
+## HTML Templates
